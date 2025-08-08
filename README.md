@@ -50,10 +50,11 @@ For Software:
 ](https://github.com/Jeevandas008/useless_project_temp/blob/main/ss1.png)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot2](https://github.com/user-attachments/assets/e58d1817-7383-49be-bfa7-94739996ef91)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Screenshot3](<img width="956" height="473" alt="image" src="https://github.com/user-attachments/assets/cbb5a591-f934-43d7-82f9-83edf484a873" />
+)
 *Add caption explaining what this shows*
 
 # Diagrams

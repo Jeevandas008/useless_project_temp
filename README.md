@@ -1,53 +1,53 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [WrongGPT] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [UNSTOPPABLE]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Jeevan Das C K] - [Jyothi Engineering College]
+- Member 2: [Enosh P R] - [Jyothi Engineering College]
 
 ### Project Description
-[2-3 lines about what your project does]
+[WrongGPT is a completely unreliable AI chatbot that proudly gives hilariously wrong answers to any question. Ask it anything — math, history, geography — and get answers so confidently wrong, you might start doubting reality.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[In today’s world, AI is getting too smart. It’s answering correctly, helping people learn, and generally ruining the vibe for lazy students. Who will stand up for the right to be wrong?]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[We built WrongGPT — the AI that proudly delivers wrong answers, fake facts, and absurd logic. Need to fail an exam in record time? Want to win an argument by making the other person question their own sanity? WrongGPT has your back.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [html]
+- [css]
+- [javascript]
+- [chatgpt]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+[git clone https://github.com/unstoppable-team/wronggpt.git
+cd wronggpt
+npm install]
 
 # Run
-[commands]
+[npm start
+# Or just shout "WrongGPT, activate!" into the void
+]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![
+](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)

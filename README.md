@@ -63,7 +63,7 @@ For Software:
 
 ### Project Demo
 # Video
-(https://github.com/Jeevandas008/useless_project_temp/blob/main/screenrecord.mp4)
+(https://drive.google.com/file/d/1AMTwOFmE_yXHacHM4hnaE0BnjLvUMVMc/view?usp=drive_link)
 
 
 

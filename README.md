@@ -53,7 +53,7 @@ For Software:
 ![Screenshot2](https://github.com/Jeevandas008/useless_project_temp/blob/main/ss2.png)
 *Add caption explaining what this shows*
 
-![Screenshot3](https://github.com/user-attachments/assets/4398d578-37b4-4b14-be0e-c31c7028b8ae)
+![Screenshot3](https://github.com/Jeevandas008/useless_project_temp/blob/main/ss3.png)
 
 *Add caption explaining what this shows*
 

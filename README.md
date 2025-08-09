@@ -60,7 +60,7 @@ For Software:
 
 # Diagrams
 ![Workflow](https://github.com/Jeevandas008/useless_project_temp/blob/main/flowchart.jpg)
-*Add caption explaining your workflow*
+*Workflow for WrongGPT: The system takes a user’s question, checks if it is empty, and if not, it picks a random incorrect answer from a predefined list (wrongAnswers array) and outputs it. If the question is empty, the system does nothing and stops.*
 
 ### Project Demo
 # Video
